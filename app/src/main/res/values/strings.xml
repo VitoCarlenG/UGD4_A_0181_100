@@ -1,9 +1,17 @@
 <resources>
-    <string name="app_name">SharedPreferences_A_0181</string>
+    <string name="app_name">UGD4_A_0181_100</string>
     <string name="logout">Logout</string>
     <string name="login">Login</string>
     <string name="clear_field">Clear Field</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="welcome">Selamat Datang, Username</string>
+    <string name="home">Home</string>
+    <string name="todo_list">Todo List</string>
+    <string name="todo_list_judul">Todo list judul</string>
+    <string name="reset">Reset</string>
+    <string name="tambah">Tambah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update">Update</string>
 </resources>

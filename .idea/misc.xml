@@ -5,6 +5,14 @@
       <map>
         <entry key="..\:/SharedPreferences_A_0181/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/SharedPreferences_A_0181/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/UGD4_A_0181_100/app/src/main/res/layout/activity_login.xml" value="0.14375" />
+        <entry key="..\:/UGD4_A_0181_100/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/UGD4_A_0181_100/app/src/main/res/layout/custom_alert_dialog.xml" value="0.16983695652173914" />
+        <entry key="..\:/UGD4_A_0181_100/app/src/main/res/layout/fragment_blank_fragmentd.xml" value="0.17527173913043478" />
+        <entry key="..\:/UGD4_A_0181_100/app/src/main/res/layout/fragment_shared_preferences.xml" value="0.19021739130434784" />
+        <entry key="..\:/UGD4_A_0181_100/app/src/main/res/layout/todo_item.xml" value="0.1897644927536232" />
+        <entry key="..\:/UGD4_A_0181_100/app/src/main/res/layout/todo_recycler.xml" value="0.1897644927536232" />
+        <entry key="..\:/UGD4_A_0181_100/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>
